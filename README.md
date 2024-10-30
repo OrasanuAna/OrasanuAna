@@ -76,7 +76,11 @@ I want to develop my programming skills and learn more about the latest technolo
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </picture>
   </a>
+  <a href="https://www.pbinfo.ro/profil/Ana_Maria2003/probleme" target="_blank" rel="noreferrer">
+    <img src="https://www.pbinfo.ro/css/copil-color.png" width="32" height="32" alt="PBInfo"/>
+  </a>
 </p>
+
 
 ---
 
