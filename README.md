@@ -1,5 +1,5 @@
 <div align="center" style="margin-bottom: 20px;">
-  <img src="https://github.com/OrasanuAna/OrasanuAna/blob/main/logo_amo.png?raw=true" alt="AMO Logo" style="width: 150px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="https://github.com/OrasanuAna/OrasanuAna/blob/main/logo_amo2.png?raw=true" alt="AMO Logo" style="width: 150px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 </div>
 
 
