@@ -1,3 +1,8 @@
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://github.com/OrasanuAna/OrasanuAna/blob/main/logo_amo.png?raw=true" alt="AMO Logo" style="width: 150px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+</div>
+
+
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ana-Maria Orășanu
 ---
 
