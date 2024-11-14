@@ -9,8 +9,9 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 ### Junior Full Stack Developer
 
 I want to develop my programming skills and learn more about the latest technologies in a dynamic and stimulating work environment. I am a devoted person and my uniqueness is reflected in the desire to create new elements in my field and try to make people’s lives easier using technology.
-
+<!--
 - 🌍 I'm based in Bucharest  
+-->
 - ✉️ You can contact me at [orasanu.anamaria19@gmail.com](mailto:orasanu.anamaria19@gmail.com)  
 - 🧠 I'm learning React and Next.js  
 - 🤝 I'm open to collaborating on Front-end or Full Stack projects, especially in React or JavaScript.  
