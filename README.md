@@ -12,20 +12,12 @@ I want to develop my programming skills and learn more about the latest technolo
 <!--
 - 🌍 I'm based in Bucharest  
 -->
-Uite cum ar arăta descrierea actualizată:  
-
----
-
-🌐 I invite you to explore my portfolio! [Ana-Maria Orășanu Portfolio](https://orasanuana.github.io/Ana-Maria_Orasanu_Portfolio/)
 
 ✉️ You can contact me at [orasanu.anamaria19@gmail.com](mailto:orasanu.anamaria19@gmail.com)  
 🧠 I'm learning React and Next.js  
 🤝 I'm open to collaborating on Front-end or Full Stack projects, especially in React or JavaScript.  
 ⚡ Always eager to learn new technologies and work on innovative solutions.  
-
---- 
-
-Ce părere ai? 😊
+🌐 I invite you to explore my portfolio! [Ana-Maria Orășanu Portfolio](https://orasanuana.github.io/Ana-Maria_Orasanu_Portfolio/) 
 
 ---
 
