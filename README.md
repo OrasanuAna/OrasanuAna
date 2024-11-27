@@ -144,5 +144,6 @@ I want to develop my programming skills and learn more about the latest technolo
 ---
 ### Support Me
 
+<div align="center">
 <a href="https://www.buymeacoffee.com/orasanuana"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
+</div>
