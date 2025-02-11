@@ -17,7 +17,7 @@ I want to develop my programming skills and learn more about the latest technolo
 🧠 I'm learning React and Next.js  
 🤝 I'm open to collaborating on Front-end or Full Stack projects, especially in React or JavaScript.  
 ⚡ Always eager to learn new technologies and work on innovative solutions.  
-🌐 I invite you to explore my portfolio! [Ana-Maria Orășanu Portfolio](https://orasanuana.github.io/Ana-Maria_Orasanu_Portfolio/) 
+🌐 I invite you to explore my portfolio! [Ana-Maria Orășanu Portfolio](https://ana-orasanu-portfolio.vercel.app/) 
 
 ---
 
